@@ -1,9 +1,13 @@
 # My . files
 This repository includes:
- - ❄️ NixOS
+ - ❄️ NixOS (no flake)
  - 💚 Neovim
  - 🐟 Fish shell
  - 🪟 Sway
+
+## TODO
+- [ ] Spread settings
+- [ ] NixOS config flake
 
 ## NixOS
 
