@@ -1,4 +1,4 @@
-# My . files
+# Temporary dotfiles
 This repository includes:
  - ❄️ NixOS (no flake)
  - 💚 Neovim
